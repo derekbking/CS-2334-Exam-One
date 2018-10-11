@@ -16,7 +16,7 @@ public class Question34
          * Will not compile. The type Integer does not have a constructor that
          * takes a double.
          */
-        vals.add(new Integer(59.1));
+//        vals.add(new Integer(59.1));
 
         /*
          * ArrayList#set takes (int index, E element) where E is type of
