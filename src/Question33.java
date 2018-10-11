@@ -17,7 +17,7 @@ public class Question33
         /*
          * ArrayList#set takes (int index, E element) where E is type of
          * ArrayList. So both these lines update index 1 of the ArrayList,
-         * however, the final values is 119 because that assignment of index 1
+         * however, the final value is 119 because that assignment of index 1
          * comes last.
          */
         vals.set(1, 2);
