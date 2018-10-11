@@ -3,8 +3,8 @@ public class Question39To44
     public Question39To44()
     {
         /*
-         * Extra brackets are used to change avoid conflicting variable names
-         * from the various problems.
+         * Extra brackets are used to control the variable scope and avoid
+         * conflicting variable names.
          */
 
         /*
